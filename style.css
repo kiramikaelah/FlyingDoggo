@@ -1,0 +1,42 @@
+.myGameArea {
+    width: 100%;
+    height: 100%;
+    margin: auto;
+}
+
+#fly {
+    background-color: hotpink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+#start {
+    margin-left: 95px;
+    background-color: hotpink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: auto;
+}
+
+#restart {
+    background-color: hotpink;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+}
+
+@media screen and (max-width: 1020px) {}
